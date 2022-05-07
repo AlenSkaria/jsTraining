@@ -8,7 +8,6 @@ const color = document.querySelector('.color');
 btn.addEventListener('click', changeColor);
 
 
-
 function changeColor(){
     let hexColor ='#';
     for(let i=0;i<6;i++){
